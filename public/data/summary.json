@@ -1,0 +1,387 @@
+{
+ "project": "canada-camera-postmortem",
+ "vintage": {
+  "built": "2026-10-09",
+  "ase_last_month": "2025-11",
+  "rlc_last_year": 2026,
+  "rlc_2026_partial": true
+ },
+ "ase": {
+  "site_codes": 520,
+  "site_rows_raw": 631,
+  "sites_geocoded": 185,
+  "months": "2020-07 to 2025-11",
+  "month_count": 65,
+  "total_charges": 2150715,
+  "revenue_low": 161303625,
+  "revenue_high": 268839375,
+  "revenue_model": "modelled range: charges x [75,125] CAD per ticket",
+  "anchor_parkside": {
+   "code": "A207",
+   "total_charges": 70243,
+   "published": "63,000 charges, $6.8M fines (Dec 2024 reporting)",
+   "published_avg_per_ticket": 107.94
+  },
+  "top_sites": [
+   {
+    "code": "A207",
+    "location": "Parkside Dr. South of Algonquin Ave.",
+    "total_charges": 70243,
+    "revenue_low": 5268225,
+    "revenue_high": 8780375
+   },
+   {
+    "code": "A205",
+    "location": "The East Mall South of Faludon Court",
+    "total_charges": 36847,
+    "revenue_low": 2763525,
+    "revenue_high": 4605875
+   },
+   {
+    "code": "A083",
+    "location": "Sheppard Ave. E. West of Don Mills Rd.",
+    "total_charges": 35239,
+    "revenue_low": 2642925,
+    "revenue_high": 4404875
+   },
+   {
+    "code": "A225",
+    "location": "O'Connor Dr. West of Lankin Blvd.",
+    "total_charges": 31476,
+    "revenue_low": 2360700,
+    "revenue_high": 3934500
+   },
+   {
+    "code": "A409",
+    "location": "Leslie St. North of Overland Dr.",
+    "total_charges": 29952,
+    "revenue_low": 2246400,
+    "revenue_high": 3744000
+   },
+   {
+    "code": "A334",
+    "location": "Lower Jarvis St.  South of The Esplanade",
+    "total_charges": 29721,
+    "revenue_low": 2229075,
+    "revenue_high": 3715125
+   },
+   {
+    "code": "A436",
+    "location": "Bloor St. W. East of Forest View Rd.",
+    "total_charges": 26604,
+    "revenue_low": 1995300,
+    "revenue_high": 3325500
+   },
+   {
+    "code": "A499",
+    "location": "Victoria Park Ave.  North of Southmead Rd.",
+    "total_charges": 26118,
+    "revenue_low": 1958850,
+    "revenue_high": 3264750
+   },
+   {
+    "code": "A496",
+    "location": "Mortimer Ave. East of Carlaw Ave.",
+    "total_charges": 25095,
+    "revenue_low": 1882125,
+    "revenue_high": 3136875
+   },
+   {
+    "code": "A172",
+    "location": "Bathurst St. Near Ardmore Rd. ",
+    "total_charges": 24851,
+    "revenue_low": 1863825,
+    "revenue_high": 3106375
+   },
+   {
+    "code": "A449",
+    "location": "Mount Pleasant Rd. Near South Dr.",
+    "total_charges": 24650,
+    "revenue_low": 1848750,
+    "revenue_high": 3081250
+   },
+   {
+    "code": "A371",
+    "location": "Avenue Rd.  South of McMaster Ave.",
+    "total_charges": 20913,
+    "revenue_low": 1568475,
+    "revenue_high": 2614125
+   },
+   {
+    "code": "A450",
+    "location": "Avenue Rd. Near Oaklands Ave.",
+    "total_charges": 20375,
+    "revenue_low": 1528125,
+    "revenue_high": 2546875
+   },
+   {
+    "code": "A426",
+    "location": "McCowan Rd. South of Sandhurst Circle.",
+    "total_charges": 19781,
+    "revenue_low": 1483575,
+    "revenue_high": 2472625
+   },
+   {
+    "code": "A093",
+    "location": "Birchmount Rd. South of Huntingwood Dr.",
+    "total_charges": 19450,
+    "revenue_low": 1458750,
+    "revenue_high": 2431250
+   },
+   {
+    "code": "A171",
+    "location": "Beverley St. Near D'Arcy St.",
+    "total_charges": 18999,
+    "revenue_low": 1424925,
+    "revenue_high": 2374875
+   },
+   {
+    "code": "A282",
+    "location": "Beecroft Rd.  Near Lorraine Dr.",
+    "total_charges": 18919,
+    "revenue_low": 1418925,
+    "revenue_high": 2364875
+   },
+   {
+    "code": "A175",
+    "location": "Isabella St.  West of Sherbourne St.",
+    "total_charges": 18314,
+    "revenue_low": 1373550,
+    "revenue_high": 2289250
+   },
+   {
+    "code": "A498",
+    "location": "Blythwood Rd. West of Strathgowan Cres.",
+    "total_charges": 18004,
+    "revenue_low": 1350300,
+    "revenue_high": 2250500
+   },
+   {
+    "code": "A097",
+    "location": "Scarborough Golf Club Rd. North of Lawrence Ave. E.",
+    "total_charges": 17959,
+    "revenue_low": 1346925,
+    "revenue_high": 2244875
+   },
+   {
+    "code": "A333",
+    "location": "Eireann Quay  South of Queens Quay",
+    "total_charges": 17717,
+    "revenue_low": 1328775,
+    "revenue_high": 2214625
+   },
+   {
+    "code": "A374",
+    "location": "Jonesville Cres.  West of Victoria Park Ave.",
+    "total_charges": 16597,
+    "revenue_low": 1244775,
+    "revenue_high": 2074625
+   },
+   {
+    "code": "A457",
+    "location": "Don Mills Rd. North of Lawrence Ave. E.",
+    "total_charges": 16248,
+    "revenue_low": 1218600,
+    "revenue_high": 2031000
+   },
+   {
+    "code": "A477",
+    "location": "Galloway Rd. South of Lawrence Ave. E.",
+    "total_charges": 14900,
+    "revenue_low": 1117500,
+    "revenue_high": 1862500
+   },
+   {
+    "code": "A218",
+    "location": "Dufferin St. South of Dufferin Park Ave.",
+    "total_charges": 14812,
+    "revenue_low": 1110900,
+    "revenue_high": 1851500
+   }
+  ]
+ },
+ "redlight": {
+  "intersections": 321,
+  "intersections_geocoded": 301,
+  "years": "2007 to 2026",
+  "total_charges": 1304807,
+  "revenue_exact": 424062275,
+  "revenue_model": "exact: charges x 325 CAD per ticket",
+  "anchor_kennedy": {
+   "code": 2578,
+   "name": "Kennedy Rd. and HWY 401 C E Kennedy Off Ramp / William Kitchen Rd.",
+   "charges_2025": 5505,
+   "implied_2025": 1789125
+  },
+  "top_intersections": [
+   {
+    "code": 2517,
+    "name": "Bayview Ave. and Truman Rd. / Fifeshire Rd.",
+    "total_charges": 35892,
+    "revenue_exact": 11664900
+   },
+   {
+    "code": 2578,
+    "name": "Kennedy Rd. and HWY 401 C E Kennedy Off Ramp / William Kitchen Rd.",
+    "total_charges": 35416,
+    "revenue_exact": 11510200
+   },
+   {
+    "code": 2501,
+    "name": "Richmond St. and Parliament St.",
+    "total_charges": 29767,
+    "revenue_exact": 9674275
+   },
+   {
+    "code": 2513,
+    "name": "Bayview Ave. and Cummer Ave.",
+    "total_charges": 24337,
+    "revenue_exact": 7909525
+   },
+   {
+    "code": 2525,
+    "name": "Dufferin St. and Glencairn Ave.",
+    "total_charges": 19329,
+    "revenue_exact": 6281925
+   },
+   {
+    "code": 2617,
+    "name": "Lake Shore Blvd. and Jameson Ave.",
+    "total_charges": 19309,
+    "revenue_exact": 6275425
+   },
+   {
+    "code": 2520,
+    "name": "Warden Ave. and Arkona Dr. / Cloverleaf Gt.",
+    "total_charges": 18898,
+    "revenue_exact": 6141850
+   },
+   {
+    "code": 2505,
+    "name": "Albion Rd. and Silverstone Dr.",
+    "total_charges": 18654,
+    "revenue_exact": 6062550
+   },
+   {
+    "code": 2503,
+    "name": "Steeles Ave. and Carpenter Rd.",
+    "total_charges": 18124,
+    "revenue_exact": 5890300
+   },
+   {
+    "code": 2546,
+    "name": "Jane St. and Clair Rd. / Spenvalley Dr.",
+    "total_charges": 18064,
+    "revenue_exact": 5870800
+   },
+   {
+    "code": 2550,
+    "name": "Bathurst St. and Davenport Rd.",
+    "total_charges": 17346,
+    "revenue_exact": 5637450
+   },
+   {
+    "code": 2537,
+    "name": "Lake Shore Blvd. and Windermere Ave.",
+    "total_charges": 17096,
+    "revenue_exact": 5556200
+   },
+   {
+    "code": 2566,
+    "name": "Lower Jarvis St. and The Esplanade",
+    "total_charges": 16508,
+    "revenue_exact": 5365100
+   },
+   {
+    "code": 2504,
+    "name": "Steeles Ave. and Hilda Ave.",
+    "total_charges": 15783,
+    "revenue_exact": 5129475
+   },
+   {
+    "code": 2541,
+    "name": "Queen St. and Lansdowne Ave. / Jameson Ave.",
+    "total_charges": 14261,
+    "revenue_exact": 4634825
+   },
+   {
+    "code": 2579,
+    "name": "University Ave. and Richmond St.",
+    "total_charges": 14014,
+    "revenue_exact": 4554550
+   },
+   {
+    "code": 2562,
+    "name": "Danforth Ave. and Greenwood Ave.",
+    "total_charges": 13457,
+    "revenue_exact": 4373525
+   },
+   {
+    "code": 2533,
+    "name": "Lake Shore Blvd. and Thirty Seventh St.",
+    "total_charges": 13279,
+    "revenue_exact": 4315675
+   },
+   {
+    "code": 2603,
+    "name": "Danforth Rd. and Brimley Rd.",
+    "total_charges": 12938,
+    "revenue_exact": 4204850
+   },
+   {
+    "code": 2576,
+    "name": "Sheppard Ave. and Malvern St. / Progress Ave.",
+    "total_charges": 12845,
+    "revenue_exact": 4174625
+   },
+   {
+    "code": 2598,
+    "name": "University Ave. and Wellington St.",
+    "total_charges": 12801,
+    "revenue_exact": 4160325
+   },
+   {
+    "code": 2545,
+    "name": "Jane St. and Bala Ave. / Emmett Ave.",
+    "total_charges": 12657,
+    "revenue_exact": 4113525
+   },
+   {
+    "code": 2538,
+    "name": "Warden Ave. and McNicoll Ave.",
+    "total_charges": 12357,
+    "revenue_exact": 4016025
+   },
+   {
+    "code": 2638,
+    "name": "Spadina Ave. and Bremner Blvd. / Fort York Blvd.",
+    "total_charges": 12138,
+    "revenue_exact": 3944850
+   },
+   {
+    "code": 2540,
+    "name": "Dupont St. and Lansdowne Ave.",
+    "total_charges": 12032,
+    "revenue_exact": 3910400
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "Automated Speed Enforcement (ASE) Charges",
+   "url": "https://open.toronto.ca/dataset/automated-speed-enforcement-ase-charges/"
+  },
+  {
+   "name": "Automated Speed Enforcement Locations",
+   "url": "https://open.toronto.ca/dataset/automated-speed-enforcement-locations/"
+  },
+  {
+   "name": "Red Light Camera Annual Charges",
+   "url": "https://open.toronto.ca/dataset/red-light-camera-annual-charges/"
+  },
+  {
+   "name": "Red Light Cameras",
+   "url": "https://open.toronto.ca/dataset/red-light-cameras/"
+  }
+ ]
+}

@@ -1,0 +1,521 @@
+site_code,location,ward,enforcement_start,enforcement_end,rotations,total_charges,revenue_low_cad,revenue_high_cad,lat,lng,site_status
+A001,Royalcrest Rd. Near Cabernet Circle,1,2020-07-06,2020-11-11,1,2475,185625,309375,,,
+A002,Harefield Dr. Near Barford Rd.,1,2020-07-06,2020-10-25,1,90,6750,11250,,,
+A003,Renforth Dr. Near Lafferty St.,2,2020-07-06,2020-10-25,1,5398,404850,674750,,,
+A004,Trehorne Dr. Near Duffield Rd.,2,2020-07-06,2020-10-25,1,1659,124425,207375,,,
+A005,Horner Ave. Near Orianna Dr.,3,2020-07-06,2024-11-18,2,2981,223575,372625,,,
+A006,Chartwell Rd. South of Larstone Ave.,3,2020-07-06,2020-10-25,1,46,3450,5750,,,
+A007,Jameson Ave. South of Laxton Ave.,4,2020-07-06,2025-11-13,3,9870,740250,1233750,43.639217,-79.436868,Active
+A008,Close Ave. South of Queen St. W.,4,2020-07-06,2020-10-25,1,167,12525,20875,,,
+A009,Bicknell Ave. South of Avon Dr.,5,2020-07-06,2020-10-25,1,4010,300750,501250,,,
+A010,Brookhaven Dr. North of Nordale Cres.,5,2020-07-06,2020-10-25,1,924,69300,115500,,,
+A011,Faywood Blvd. Near Laurelcrest Ave.,6,2020-07-06,2020-10-25,1,826,61950,103250,,,
+A012,Wilmington Ave. North of Purdon Dr.,6,2020-07-06,2020-10-25,1,2920,219000,365000,,,
+A013,Derrydown Rd. North of Catford Rd.,7,2020-07-06,2020-10-25,1,36,2700,4500,,,
+A014,Grandravine Dr. East of Jane St.,7,2020-07-06,2025-11-13,2,1060,79500,132500,,,
+A015,Corona St. South of Claver Ave.,8,2020-07-06,2020-11-11,1,622,46650,77750,,,
+A016,Ridge Hill Dr.  West of Old Park Rd.,8,2020-07-06,2024-04-25,2,4615,346125,576875,,,
+A017,Caledonia Rd.  North of Rogers Rd.,9,2020-07-06,2025-11-13,3,12821,961575,1602625,43.684033,-79.458551,Active
+A018,Gladstone Ave.  South of Cross St.,9,2020-07-06,2023-12-13,2,6640,498000,830000,,,
+A019,Manning Ave. North of Robinson St.,10,2020-07-06,2020-10-25,1,66,4950,8250,,,
+A020,Givins St.  South of Argyle St.,10,2020-07-06,2024-05-14,3,522,39150,65250,43.646024,-79.418169,Planned
+A021,Lippincott St. South of Vankoughnet St. ,11,2020-07-06,2020-10-25,1,135,10125,16875,43.657797,-79.406999,Active
+A022,Huron St. South of Bernard Ave.,11,2020-07-06,2020-10-25,1,655,49125,81875,,,
+A023,Atlas Ave. South of Ava Rd.,12,2020-07-06,2020-10-25,1,115,8625,14375,,,
+A024,Brownlow Ave.  South of Eglinton Ave. E.,12,2020-07-06,2024-05-22,2,931,69825,116375,,,
+A025,Prospect St. East of Ontario St.,13,2020-07-06,2020-10-25,1,10,750,1250,,,
+A026,Spruce St. Near Gifford St. ,13,2020-07-06,2020-10-25,1,13,975,1625,,,
+A027,Chatham Ave. East of Jones Ave.,14,2020-07-06,2020-10-25,1,1633,122475,204125,,,
+A028,Morse St. South of Queen St. E.,14,2020-07-06,2020-10-25,1,118,8850,14750,,,
+A029,Bessborough Dr. North of Field Ave. ,15,2020-07-06,2020-10-25,1,816,61200,102000,,,
+A030,Ranleigh Ave. East of Yonge St.,15,2020-07-06,2025-11-13,2,2764,207300,345500,43.728266,-79.399945,Active
+A031,Gateway Blvd. Near 10 Gateway Blvd.,16,2020-07-06,2020-10-25,1,3273,245475,409125,,,
+A032,Ness Dr. North of York Mills Rd.,16,2020-07-06,2020-10-25,1,32,2400,4000,,,
+A033,Elkhorn Dr. West of Red Maple Court,17,2020-07-06,2020-10-25,1,283,21225,35375,,,
+A034,Cherokee Blvd. South of Pinto Dr.,17,2020-07-06,2024-10-17,2,1743,130725,217875,,,
+A035,Patricia Ave. West of Homewood Ave.,18,2020-07-06,2024-10-21,2,3281,246075,410125,,,
+A036,Lillian St. South of Abitibi Ave.,18,2020-07-06,2020-10-25,1,756,56700,94500,,,
+A037,Main St.  South of Swanwick Ave.,19,2020-07-06,2025-11-13,3,2624,196800,328000,43.681719,-79.299257,Active
+A038,Barrington Ave. North of Secord Ave.,19,2020-07-06,2020-10-25,1,1545,115875,193125,,,
+A039,Falmouth Ave. South of Brussels Rd.,20,2020-07-06,2020-10-25,1,362,27150,45250,,,
+A040,Birchmount Rd. North of Kingston Rd.,20,2020-07-06,2020-10-25,1,2486,186450,310750,,,
+A041,Brimorton Dr. East of Hathway Dr.,21,2020-07-06,2020-10-25,1,1556,116700,194500,,,
+A042,Marcos Blvd. Near Cicerella Cres.,21,2020-07-06,2020-10-25,1,27,2025,3375,,,
+A043,Beverly Glen Blvd. West of Stonebridge Blvd.,22,2020-07-06,2020-11-04,1,31,2325,3875,,,
+A044,Silver Springs Blvd. Near Revlis Cres.,22,2020-07-06,2020-10-25,1,485,36375,60625,,,
+A045,Crow Trail Near Bradstone Square,23,2020-07-06,2020-10-25,1,409,30675,51125,,,
+A046,Alton Towers Circle Near 295 Alton Towers Circle,23,2020-07-06,2020-10-25,1,332,24900,41500,,,
+A047,Galloway Rd. North of Lawrence Ave. E.,24,2020-07-06,2020-10-25,1,1,75,125,,,
+A048,Military Trail East of Cindy Nicholas Dr.,24,2020-07-06,2020-10-25,1,1987,149025,248375,,,
+A049,Hupfield Trail Near Glanvil Cres.,25,2020-07-06,2025-11-13,2,953,71475,119125,43.814072,-79.219597,Active
+A050,Murison Blvd. Near Curtis Cres.,25,2020-07-06,2020-10-25,1,304,22800,38000,,,
+A051,Golfdown Dr. East of Turpin Ave.,1,2020-11-25,2025-11-13,2,14131,1059825,1766375,43.722559,-79.553404,Active
+A052,Mount Olive Dr. West of Kipling Ave.,1,2020-12-03,2021-05-10,1,1288,96600,161000,,,
+A053,The Kingsway South of Hartfield Rd.,2,2020-11-09,2021-05-06,1,3928,294600,491000,,,
+A054,Mill Rd. North of Bloor St. W.,2,2020-11-09,2021-05-10,1,1981,148575,247625,,,
+A055,Mimico Ave. West of Station Rd.,3,2020-11-18,2023-12-13,2,6969,522675,871125,43.612777,-79.494049,Planned
+A056,Stanley Ave.  Near Elizabeth St.,3,2020-12-03,2025-11-13,2,5226,391950,653250,43.614636,-79.496038,Active
+A057,Willard Ave. Near Rexford Rd.,4,2020-12-22,2021-05-06,1,69,5175,8625,,,
+A058,Mountview Ave. Near 51 Mountview Ave.,4,2020-11-19,2021-05-11,1,12,900,1500,,,
+A059,Rockcliffe Blvd. Near Rockcliffe Court,5,2020-11-09,2025-11-13,2,7750,581250,968750,43.67496,-79.48895,Active
+A060,Jane St. North of Lambton Ave.,5,2020-11-09,2021-05-11,1,10333,774975,1291625,43.6825208,-79.49820962,Active
+A061,Ancaster Rd. Near Plewes Rd.,6,2020-11-09,2021-05-10,1,162,12150,20250,,,
+A062,Dovehouse Ave. West of Keele St.,6,2020-11-09,2021-05-10,1,753,56475,94125,,,
+A063,Topcliff Ave. Near 96 Topcliff Ave.,7,2020-11-25,2021-05-10,1,719,53925,89875,,,
+A064,Gracedale Blvd. Near Crimscott Rd.,7,2020-11-09,2021-05-10,1,146,10950,18250,,,
+A065,Avenue Rd.  Near Castlefield Ave.,8,2020-12-03,2025-11-13,3,12050,903750,1506250,43.709534,-79.41094,Active
+A066,Bedford Park Ave. West of Yonge St.,8,2020-12-03,2021-05-03,1,93,6975,11625,,,
+A067,Laughton Ave. Near Talbot St.,9,2020-11-09,2021-05-26,1,45,3375,5625,,,
+A068,Ruskin Ave. West of Perth Ave.,9,2020-11-10,2021-05-10,1,233,17475,29125,,,
+A069,Denison Ave. South of Grange Ave.,10,2020-11-09,2023-12-13,3,10682,801150,1335250,,,
+A070,Brant St. South of Adelaide St. W.,10,2020-11-11,2024-11-12,3,3279,245925,409875,,,
+A071,Orde St. West of Murray St.,11,2020-12-14,2021-05-26,1,98,7350,12250,,,
+A072,Essex St.  West of Christie St.,11,2020-11-16,2024-05-21,2,1227,92025,153375,,,
+A073,Ava Rd. East of Westover Hill Rd.,12,2020-11-11,2024-12-02,2,7250,543750,906250,,,
+A074,Tweedsmuir Ave. South of Heath St. W.,12,2020-11-17,2021-05-10,1,671,50325,83875,,,
+A075,Sherbourne St. South of Wellesley St. E.,13,2020-11-16,2021-05-11,1,2582,193650,322750,43.665775,-79.374069,Planned
+A076,Berkeley St. South of Gerrard St. E.,13,2020-11-25,2021-05-31,1,46,3450,5750,,,
+A077,Dundas St. E. East of Broadview Ave.,14,2020-11-09,2021-05-06,1,1519,113925,189875,,,
+A078,Lesmount Ave. South of Cosburn Ave.,14,2020-11-09,2021-05-06,1,397,29775,49625,43.690476,-79.340358,Planned
+A079,Erskine Ave. West of Redpath Ave.,15,2020-11-09,2021-05-03,1,2754,206550,344250,,,
+A080,Thorncliffe Park Dr. Near 79 Thorncliffe Park Dr.,15,2020-11-20,2021-05-03,1,828,62100,103500,,,
+A081,Fenside Dr. South of Roywood Dr.,16,2020-11-16,2021-05-03,1,323,24225,40375,,,
+A082,Underhill Dr. Near Bevridge Dr.,16,2020-11-09,2021-05-03,1,2701,202575,337625,,,
+A083,Sheppard Ave. E. West of Don Mills Rd.,17,2020-12-10,2025-06-23,2,35239,2642925,4404875,43.7744034,-79.35048,Active
+A084,Seneca Hill Dr. West of Don Mills Rd.,17,2020-12-03,2021-05-25,1,855,64125,106875,,,
+A085,Doris Ave. North of Spring Garden Ave.,18,2020-11-11,2021-05-04,1,8554,641550,1069250,,,
+A086,Church Ave. East of Doris Ave.,18,2020-11-11,2021-05-04,1,1204,90300,150500,43.774292,-79.41155,Planned
+A087,Kingston Rd.  Near Heyworth Cres.,19,2020-11-16,2024-10-28,2,11466,859950,1433250,,,
+A088,Spruce Hill Rd. North of Queen St. E.,19,2020-11-25,2024-10-28,2,672,50400,84000,,,
+A089,Edge Park Ave. East of Victoria Park Ave.,20,2020-11-17,2025-11-13,2,1442,108150,180250,43.717881,-79.298289,Active
+A090,Birchcliff Ave. Near Freeman St.,20,2020-11-18,2021-05-03,1,58,4350,7250,,,
+A091,Ellesmere Rd. East of Mondeo Dr.,21,2020-11-18,2021-05-06,1,10132,759900,1266500,,,
+A092,Gooderham Dr. South of Murray Glen Dr.,21,2020-12-02,2021-05-04,1,218,16350,27250,,,
+A093,Birchmount Rd. South of Huntingwood Dr.,22,2020-11-25,2025-11-13,2,19450,1458750,2431250,43.788339,-79.301517,Active
+A094,Southlawn Dr. Near Buena Vista Ave.,22,2020-11-18,2021-05-04,1,74,5550,9250,,,
+A095,McCowan Rd. North of Kenhatch Blvd.,23,2020-12-03,2021-05-04,1,13906,1042950,1738250,,,
+A096,Brimwood Blvd. Near Bridley Dr.,23,2020-12-07,2021-05-04,1,578,43350,72250,,,
+A097,Scarborough Golf Club Rd. North of Lawrence Ave. E.,24,2020-12-10,2024-10-28,2,17959,1346925,2244875,,,
+A098,Holmfirth Terrace West of Vanwart Dr.,24,2020-11-19,2021-05-11,1,1344,100800,168000,,,
+A099,Charlottetown Blvd. Near McCulley St.,25,2020-11-19,2021-05-04,1,802,60150,100250,,,
+A100,Durnford Rd. North of Rylander Blvd.,25,2020-12-02,2021-05-04,1,512,38400,64000,43.799258,-79.150238,Planned
+A101,Martin Grove Rd. North of Garfella Dr.,1,2021-06-08,2021-10-19,1,6500,487500,812500,,,
+A102,John Garland Blvd. Near Kendleton Dr.,1,2021-06-09,2021-10-19,1,2363,177225,295375,,,
+A103,The East Mall South of Capri Rd.,2,2021-07-14,2025-11-13,2,6747,506025,843375,43.6511409,-79.5623874,Active
+A104,La Rose Ave. East of Griggsden Ave.,2,2021-05-27,2021-10-18,1,824,61800,103000,,,
+A105,Algoma St. East of Royal York Rd.,3,2021-06-08,2021-10-27,1,867,65025,108375,,,
+A106,Lake Shore Blvd. W. Near Twentieth St.,3,2021-08-18,2021-10-27,1,135,10125,16875,,,
+A107,Windermere Ave.  Near St. Olaves Rd.,4,2021-06-01,2024-05-28,2,10173,762975,1271625,,,
+A108,Annette St. Near Laws St.,4,2021-06-18,2021-10-18,1,732,54900,91500,43.662008,-79.473663,Planned
+A109,Guestville Ave. Near Dennis Ave.,5,2021-06-02,2021-10-18,1,761,57075,95125,,,
+A110,Culford Rd. North of Burr Ave.,5,2021-06-14,2024-11-19,2,2598,194850,324750,,,
+A111,Wilson Ave. Near 1196 Wilson Ave.,6,2021-06-08,2021-10-21,1,9546,715950,1193250,,,
+A112,Northover St. South of Sheppard Ave. W.,6,2021-05-29,2021-10-21,1,520,39000,65000,,,
+A113,Shoreham Dr. West of Gosford Blvd.,7,2021-06-09,2021-10-26,1,971,72825,121375,,,
+A114,Stong Court West of Driftwood Ave.,7,2021-06-02,2021-10-29,1,113,8475,14125,,,
+A115,Wilson Ave. West of Belgrave Ave.,8,2021-07-15,2021-10-19,1,1120,84000,140000,,,
+A116,Marlee Ave. South of Hillmount Ave,8,2021-06-11,2021-10-20,1,2249,168675,281125,,,
+A117,Dufferin St. Near Waterloo Ave.,9,2021-07-28,2024-11-13,2,3109,233175,388625,,,
+A118,Concord Ave. North of College St.,9,2021-06-21,2024-11-13,2,1416,106200,177000,43.655943,-79.424544,Planned
+A119,Dundas St. W.  Near Carlyle St.,10,2021-08-04,2025-05-07,3,4926,369450,615750,,,
+A120,The Esplanade East of Princess St.,10,2021-06-24,2021-10-18,1,152,11400,19000,,,
+A121,Avenue Rd. Near Macpherson Ave,11,2021-07-09,2021-10-21,1,1429,107175,178625,,,
+A122,Clinton St. North of College St.,11,2021-06-21,2024-11-07,2,2130,159750,266250,,,
+A123,Davisville Ave.  Near Acacia Rd.,12,2021-06-18,2025-11-13,2,7885,591375,985625,43.699885,-79.389462,Active
+A124,Bansley Ave South of Vaughan Rd,12,2021-06-21,2021-10-20,1,3,225,375,,,
+A125,Homewood Ave. Near Maitland Place,13,2021-07-05,2021-10-19,1,89,6675,11125,,,
+A126,Parliament St. North of Oak St.,13,2021-06-17,2024-11-12,2,4667,350025,583375,43.661111,-79.366798,Planned
+A127,Greenwood Ave. South of Glebeholme Blvd.,14,2021-06-04,2021-10-07,1,10763,807225,1345375,,,
+A128,Plains Rd. Near Milton Rd.,14,2021-06-24,2025-11-13,2,3597,269775,449625,43.6952995,-79.33196036,Active
+A129,Blythwood Rd. Near Blyth Dale Rd.,15,2021-05-21,2021-10-08,1,1449,108675,181125,,,
+A130,Leslie St. South of Lawrence Ave. E.,15,2021-05-20,2021-10-08,1,6391,479325,798875,,,
+A131,York Mills Rd. East of Rayoak Dr.,16,2021-05-21,2021-10-08,1,762,57150,95250,,,
+A132,Grenoble Dr. West of Spanbridge Rd.,16,2021-06-08,2021-10-08,1,706,52950,88250,,,
+A133,Van Horne Ave. West of Brian Dr.,17,2021-06-02,2021-10-13,1,682,51150,85250,,,
+A134,Parkway Forest Dr. Near 25 Parkway Forest Dr.,17,2021-06-08,2021-10-14,1,577,43275,72125,,,
+A135,Drewry Ave. East of Norwin St.,18,2021-06-09,2025-03-12,3,4698,352350,587250,,,
+A136,Ellerslie Ave. Near Diagonal Rd.,18,2021-06-08,2021-10-14,1,70,5250,8750,,,
+A137,Victoria Park Ave. Near Tiago Ave.,19,2021-06-24,2021-10-22,1,11097,832275,1387125,,,
+A138,Secord Ave. Near Palmer Ave.,19,2021-06-18,2024-10-28,2,4342,325650,542750,,,
+A139,Birchmount Rd. South of Sadler Dr.,20,2021-06-16,2021-10-12,1,961,72075,120125,,,
+A140,Bellamy Rd. S. North of Kingston Rd.,20,2021-06-21,2021-10-12,1,1035,77625,129375,43.733153,-79.225003,Planned
+A141,Gilder Dr. East of Midland Ave.,21,2021-06-24,2021-10-12,1,449,33675,56125,,,
+A142,Lawrence Ave. E. West of Ben Stanton Blvd.,21,2021-07-07,2021-10-12,1,2479,185925,309875,,,
+A143,Bamburgh Circle Near 125 Bamburgh Circle,22,2021-05-20,2021-10-13,1,2700,202500,337500,,,
+A144,Chester Le Blvd. Near Pettibone Square,22,2021-05-20,2021-10-13,1,119,8925,14875,,,
+A145,Huntingwood Dr. Near Mollard Rd.,23,2021-06-04,2025-11-13,2,10651,798825,1331375,,,
+A146,Heather Rd. East of Glen Watford Dr.,23,2021-06-09,2021-10-20,1,660,49500,82500,,,
+A147,Military Trail Near 341 Military Trail,24,2021-06-18,2025-11-13,2,5205,390375,650625,43.786307,-79.212472,Active
+A148,Gatesview Ave. East of Cedar Dr.,24,2021-06-09,2021-10-27,1,120,9000,15000,,,
+A149,Sewells Rd. West of Glenheather Terrace,25,2021-06-08,2021-10-20,1,899,67425,112375,,,
+A150,Centennial Rd. South of Cherrydale Court,25,2021-05-28,2021-10-18,1,1062,79650,132750,,,
+A151,Kipling Ave. South of Snaresbrook Dr.,1,2021-11-03,2022-03-28,1,4228,317100,528500,,,
+A152,Silverstone Dr. North of Avening Dr.,1,2021-11-03,2022-03-28,1,1171,87825,146375,,,
+A153,The Westway West of Brampton Rd.,2,2021-11-04,2025-11-13,2,5944,445800,743000,43.684757,-79.561455,Active
+A154,Montgomery Rd. Near Loyalist Rd.,2,2021-11-20,2022-03-28,1,786,58950,98250,,,
+A155,Birmingham St. West of Kipling Ave.,3,2021-11-29,2025-11-13,2,2638,197850,329750,43.600527,-79.519132,Active
+A156,Royal York Rd. North of Coney Rd.,3,2021-11-15,2022-04-04,1,8722,654150,1090250,,,
+A157,Priscilla Ave. South of Dundas St. W. ,4,2021-11-16,2024-11-18,2,2318,173850,289750,,,
+A158,Jane St. South of Weatherell St.,4,2021-12-10,2024-11-18,2,5359,401925,669875,,,
+A159,Lawrence Ave. W. East of Martini Dr. ,5,2021-12-09,2022-03-28,1,3216,241200,402000,,,
+A160,King St. South of George St.,5,2021-12-09,2022-03-28,1,1755,131625,219375,,,
+A161,Sheppard Ave. W. East of Buckland Rd.,6,2021-11-03,2022-04-25,1,5159,386925,644875,,,
+A162,Faywood Blvd. Near Norcross Rd.,6,2021-11-30,2025-11-13,2,3898,292350,487250,43.751678,-79.451258,Active
+A163,Jane St. North of Clair Rd.,7,2021-11-24,2022-03-28,1,3233,242475,404125,,,
+A164,Yorkwoods Gate East of Jane St.,7,2021-11-25,2022-03-28,1,792,59400,99000,,,
+A165,Glenmount Ave. Near Madoc Dr.,8,2021-11-26,2025-11-13,2,3151,236325,393875,43.716203,-79.431985,Active
+A166,Avenue Rd. South of Caribou Rd.,8,2021-12-06,2022-04-25,1,10229,767175,1278625,,,
+A167,Dufferin St. North of Norton Ave.,9,2021-12-06,2025-11-13,2,5012,375900,626500,43.6792862,-79.44361449,Active
+A168,Oakwood Ave. Near Biggar Ave.,9,2021-11-25,2025-11-13,2,2430,182250,303750,43.678628,-79.435612,Active
+A169,Queens Quay W.  East of Bathurst St.,10,2021-11-16,2023-08-01,2,1972,147900,246500,43.636081,-79.397647,Planned
+A170,Davenport Rd. Near Bishop St.,11,2021-12-09,2022-04-04,1,2926,219450,365750,,,
+A171,Beverley St. Near D'Arcy St.,11,2021-12-29,2025-11-13,2,18999,1424925,2374875,43.65505877,-79.3944377,Active
+A172,Bathurst St. Near Ardmore Rd. ,12,2022-01-20,2024-11-05,2,24851,1863825,3106375,,,
+A173,Arlington Ave. South of Durham Ave.,12,2021-12-03,2024-11-05,2,2223,166725,277875,,,
+A174,Queen St. E.  Near Sackville St.,13,2021-12-17,2024-11-12,3,8141,610575,1017625,,,
+A175,Isabella St.  West of Sherbourne St.,13,2021-12-01,2025-11-13,3,18314,1373550,2289250,43.669368,-79.377108,Active
+A176,Donlands Ave. Near Memorial Park Ave.,14,2021-12-16,2022-05-09,1,1201,90075,150125,,,
+A177,Westwood Ave. West of Carlaw Ave.,14,2021-11-23,2022-05-09,1,1513,113475,189125,,,
+A178,Lawrence Ave. E. East of Mildenhall Rd.,15,2021-12-01,2022-05-09,1,1953,146475,244125,,,
+A179,Banbury Rd. Near Portsmith Rd.,15,2021-11-12,2024-10-22,2,4069,305175,508625,,,
+A180,Scarsdale Rd. South of York Mills Rd.,16,2021-10-29,2022-05-09,1,3215,241125,401875,,,
+A181,Wallingford Rd. North of Cassandra Blvd.,16,2021-12-01,2022-05-09,1,1588,119100,198500,,,
+A182,Victoria Park Ave. North of Old Sheppard Ave.,17,2021-12-10,2024-10-21,2,3314,248550,414250,,,
+A183,Brian Dr. North of Clydesdale Dr.,17,2021-10-27,2022-05-17,1,1043,78225,130375,,,
+A184,Senlac Rd. South of Horsham Ave.,18,2021-10-29,2025-11-13,2,8782,658650,1097750,43.770999,-79.427782,Active
+A185,Cactus Ave. North of Moore Park Ave.,18,2021-10-27,2022-05-16,1,732,54900,91500,,,
+A186,O'Connor Dr. Near Wakunda Place,19,2021-12-10,2022-05-09,1,2343,175725,292875,,,
+A187,Cosburn Ave. West of Binswood Ave.,19,2021-12-10,2022-05-09,1,929,69675,116125,,,
+A188,Kingston Rd. East of Chine Dr.,20,2021-12-15,2022-01-28,1,68,5100,8500,,,
+A189,Cathedral Bluffs Dr. South of Kingston Rd.,20,2021-12-10,2022-05-25,1,3261,244575,407625,,,
+A190,Birchmount Rd. South of Ellendale Dr.,21,2021-12-06,2022-05-24,1,5804,435300,725500,43.757115,-79.288633,Planned
+A191,Dewey Dr. East of Pharmacy Ave.,21,2021-12-08,2022-05-24,1,662,49650,82750,,,
+A192,Warden Ave. South of Glen Springs Dr.,22,2021-12-10,2022-05-02,1,3274,245550,409250,43.803327,-79.319553,Planned
+A193,Lockie Ave. East of Donalda Cres.,22,2021-12-16,2022-05-24,1,68,5100,8500,,,
+A194,Finch Ave. E. West of Neilson Rd.,23,2021-12-10,2022-05-24,1,2819,211425,352375,43.815802,-79.229601,Active
+A195,Nugget Ave. East of Transfer Place,23,2021-12-14,2022-05-24,1,2222,166650,277750,43.798256,-79.243377,Active
+A196,Bellamy Rd. N. South of Northleigh Dr.,24,2021-11-22,2022-05-02,1,2491,186825,311375,,,
+A197,Brimorton Dr. Near Amberjack Blvd.,24,2021-11-22,2022-05-02,1,2482,186150,310250,,,
+A198,Manse Rd. Near 292 Manse Rd.,25,2021-11-05,2022-05-02,1,1953,146475,244125,,,
+A199,Wickson Trail West of Brenyon Way,25,2021-11-22,2022-05-02,1,545,40875,68125,,,
+A200,Kingston Rd. Near 2685 Kingston Rd.,20,2022-02-25,2022-05-24,1,346,25950,43250,43.716497,-79.242368,Planned
+A201,Martin Grove Rd. North of Rampart Rd.,1,2022-04-07,2022-10-11,1,4532,339900,566500,,,
+A202,Redgrave Dr. West of Martin Grove Rd.,1,2022-04-07,2022-10-11,1,1964,147300,245500,,,
+A203,Royal York Rd. North of La Rose Ave.,2,2022-04-19,2025-11-13,2,8710,653250,1088750,43.685121,-79.527931,Active
+A204,Mill Rd. North of Burnhamthorpe Rd.,2,2022-04-07,2022-10-24,1,10270,770250,1283750,,,
+A205,The East Mall South of Faludon Court,3,2022-04-19,2025-11-13,2,36847,2763525,4605875,43.633155,-79.555658,Active
+A206,Ourland Ave. Near Merriday St.,3,2022-04-14,2022-10-11,1,1478,110850,184750,,,
+A207,Parkside Dr. South of Algonquin Ave.,4,2022-04-14,2025-11-13,1,70243,5268225,8780375,43.64253,-79.45528,Active
+A208,Runnymede Rd. North of Colbeck St.,4,2022-04-14,2025-11-13,2,5210,390750,651250,43.654995,-79.477753,Active
+A209,Scarlett Rd. South of Ellins Ave.,5,2022-04-07,2022-10-24,1,2525,189375,315625,,,
+A210,Gary Dr. Near Deerhurst Ave.,5,2022-04-07,2022-10-24,1,1145,85875,143125,43.711572,-79.516997,Planned
+A211,Dufferin St. North of Stanstead Dr.,6,2022-05-24,2022-11-07,1,2825,211875,353125,,,
+A212,Stilecroft Dr. West of Sharpecroft Blvd.,6,2022-05-04,2022-11-07,1,1501,112575,187625,43.750957,-79.492212,Planned
+A213,Weston Rd. Near Coronado Court,7,2022-04-25,2022-10-11,1,2190,164250,273750,,,
+A214,Spenvalley Dr. Near Whitbread Cres.,7,2022-04-19,2022-10-11,1,1408,105600,176000,,,
+A215,Dufferin St. South of Claver Ave.,8,2022-05-04,2025-11-13,2,8249,618675,1031125,43.711925,-79.454145,Active
+A216,Orfus Rd. West of Dufferin St.,8,2022-05-04,2025-11-13,2,8602,645150,1075250,43.719967,-79.458436,Active
+A217,Rogers Rd. Near 382 Rogers Rd.,9,2022-04-14,2022-10-24,1,2421,181575,302625,,,
+A218,Dufferin St. South of Dufferin Park Ave.,9,2022-04-14,2025-11-13,2,14812,1110900,1851500,43.65624,-79.43392,Active
+A219,Spadina Ave. South of Bloor St. W.,11,2022-05-06,2022-07-18,1,1115,83625,139375,,,
+A220,Manning Ave. South of Lennox St.,11,2022-04-14,2022-10-31,1,2553,191475,319125,43.661569,-79.415007,Planned
+A221,St. Clair Ave. W. Near Crang Ave.,12,2022-05-04,2022-11-07,1,98,7350,12250,,,
+A222,Warren Rd. North of Lonsdale Rd.,12,2022-05-25,2022-11-07,1,3347,251025,418375,,,
+A223,Carlton St. Near Homewood Ave.,13,2022-05-06,2022-10-31,1,1437,107775,179625,,,
+A224,Shuter St. East of Sackville St.,13,2022-04-21,2022-10-31,1,7299,547425,912375,,,
+A225,O'Connor Dr. West of Lankin Blvd.,14,2022-05-19,2025-11-13,2,31476,2360700,3934500,43.697477,-79.331139,Active
+A226,Cosburn Ave. Near Roosevelt Rd.,14,2022-06-02,2025-11-13,2,3465,259875,433125,43.693473,-79.331165,Active
+A227,York Mills Rd. West of Banbury Rd.,15,2022-05-19,2025-11-13,2,7615,571125,951875,43.751155,-79.372554,Active
+A228,Park Lane Circle Near 60 Park Lane Circle,15,2022-05-19,2022-11-21,1,1520,114000,190000,43.729434,-79.366899,Planned
+A229,The Donway E.  North of Greenland Rd.,16,2022-05-19,2024-11-12,2,8735,655125,1091875,,,
+A230,The Donway W. Near Duncairn Rd.,16,2022-06-02,2025-11-13,2,4086,306450,510750,,,
+A231,McNicoll Ave. Near Sexton Cres.,17,2022-05-25,2025-11-13,2,3838,287850,479750,43.800401,-79.34995273,Active
+A232,Don Mills Rd. South of Freshmeadow Dr.,17,2022-05-25,2022-11-21,1,4753,356475,594125,,,
+A233,Finch Ave. E. Near Manorcrest Dr.,18,2022-05-25,2022-11-07,1,2123,159225,265375,,,
+A234,Churchill Ave. West of Abbotsford Rd.,18,2022-05-25,2022-11-07,1,645,48375,80625,,,
+A235,St. Clair Ave. E. West of Marilyn Cres.,19,2022-06-07,2025-11-13,2,4834,362550,604250,43.704961,-79.316698,Active
+A236,Kingston Rd. Near Glen Manor Dr.,19,2022-06-07,2022-11-28,1,2087,156525,260875,,,
+A237,Danforth Ave. East of Birchmount Rd.,20,2022-06-02,2022-11-28,1,704,52800,88000,,,
+A238,Corvette Ave. Near Cleta Dr.,20,2022-06-02,2022-09-27,1,348,26100,43500,,,
+A239,Pharmacy Ave. North of Sherwood Ave.,21,2022-06-02,2022-11-28,1,1979,148425,247375,,,
+A240,Antrim Cres. Near 11 Antrim Cres.,21,2022-06-02,2022-11-28,1,886,66450,110750,,,
+A241,Pharmacy Ave. Near 2300 Pharmacy Ave.,22,2022-05-25,2022-12-05,1,3564,267300,445500,,,
+A242,Dunmurray Blvd. Near Groomsport Cres.,22,2022-06-17,2022-12-05,1,69,5175,8625,,,
+A243,Sandhurst Circle Near 1571 Sandhurst Circle,23,2022-06-17,2022-12-05,1,1743,130725,217875,,,
+A244,Seasons Dr. East of Oasis Blvd.,23,2022-06-02,2022-12-05,1,1577,118275,197125,,,
+A245,Morningside Ave. Near Warnsworth St.,24,2022-05-11,2022-11-28,1,3283,246225,410375,,,
+A246,Galloway Rd. Near Coronation Dr.,24,2022-06-01,2022-11-28,1,3388,254100,423500,,,
+A247,Brenyon Way Near 200 Brenyon Way,25,2022-05-11,2022-12-05,1,1742,130650,217750,,,
+A248,Old Finch Ave. West of Littles Rd.,25,2022-05-11,2022-12-05,1,1789,134175,223625,,,
+A249,Spadina Ave.  Near Glen Morris St.,11,2022-09-06,2022-10-31,1,1680,126000,210000,,,
+A250,Kipling Ave. North of Rowntree Rd.,1,2022-10-19,2023-07-04,1,3534,265050,441750,,,
+A251,Humberwood Blvd. South of Pinecone Dr.,1,2022-10-19,2025-11-13,2,7628,572100,953500,43.727606,-79.621564,Active
+A252,Bloor St. W.  Near 4034 Bloor St. W.,2,2022-11-02,2023-07-11,1,5856,439200,732000,,,
+A253,Allanhurst Dr. Near Mulham Place,2,2022-11-02,2023-07-11,1,1153,86475,144125,,,
+A254,Burnhamthorpe Rd. West of Dundas St. W.,3,2022-10-27,2023-07-11,1,1973,147975,246625,,,
+A255,Norseman St. Near Lothian Ave.,3,2022-10-27,2023-07-11,1,3042,228150,380250,,,
+A256,Dundas St. W.  East of Watkinson Ave.,4,2022-11-09,2023-07-12,1,1063,79725,132875,,,
+A258,Keele St.  Near Nashville Ave.,5,2022-11-02,2025-11-13,2,2324,174300,290500,43.683797,-79.47246,Active
+A259,Emmett Ave.  Near 75 Emmett Ave.,5,2022-11-02,2023-07-05,1,1444,108300,180500,,,
+A260,Keele St. North of Wandle Ave.,6,2022-11-16,2023-07-04,1,6089,456675,761125,43.7319336,-79.483285,Active
+A261,Giltspur Dr.  Near 120 Giltspur Dr.,6,2022-11-16,2023-07-06,1,1607,120525,200875,,,
+A262,Weston Rd. South of Burgundy Court.,7,2022-10-19,2023-07-04,1,7323,549225,915375,43.72873,-79.53601,Planned
+A263,Duncanwoods Dr. West of Gracedale Blvd.,7,2022-10-19,2025-11-13,2,2031,152325,253875,43.751059,-79.561496,Active
+A264,Neptune Dr.  West of Bathurst St.,8,2023-01-12,2023-07-05,1,667,50025,83375,,,
+A265,Glengrove Ave. W. West of Glen Castle St.,8,2022-11-16,2023-07-05,1,1740,130500,217500,,,
+A266,Ossington Ave. North of Churchill Ave.,9,2022-11-10,2023-08-01,1,3242,243150,405250,,,
+A267,College St. Near Sheridan Ave.,9,2022-11-08,2023-08-01,1,1396,104700,174500,43.652201,-79.434707,Planned
+A268,Bloor St. E.  East of Castle Frank Rd.,11,2022-11-09,2023-08-02,1,1849,138675,231125,43.674571,-79.367118,Planned
+A269,Howland Ave.  South of Wells St.,11,2022-11-23,2023-08-02,1,1353,101475,169125,,,
+A270,Yonge St.  Near Glen Elm Ave.,12,2022-11-18,2025-11-13,2,12458,934350,1557250,43.691216,-79.395011,Active
+A271,Russell Hill Rd.  North of Coulson Ave.,12,2022-11-16,2023-07-12,1,6016,451200,752000,,,
+A272,Alexander St. East of Yonge St.,13,2022-11-09,2023-08-01,1,54,4050,6750,,,
+A273,Sherbourne St.  South of Wellesley St. E.,13,2022-11-09,2023-08-01,1,3704,277800,463000,43.665775,-79.374069,Planned
+A274,Dundas St. E.  West of Boulton Ave.,14,2022-12-07,2023-08-08,1,1127,84525,140875,,,
+A275,Carlaw Ave. South of Queen St. E.,14,2022-12-02,2023-08-08,1,849,63675,106125,,,
+A276,Overlea Blvd.  East of William Morgan Dr.,15,2022-12-02,2023-07-18,1,4352,326400,544000,,,
+A277,Fenn Ave.  North of Gordon Rd.,15,2022-12-02,2025-11-13,2,3929,294675,491125,43.749035,-79.389838,Active
+A278,Don Mills Rd.  North of Overlea Blvd.,16,2022-12-02,2023-07-18,1,6219,466425,777375,,,
+A279,Fenelon Dr. Near Karen Rd.,16,2022-12-02,2025-11-13,2,1768,132600,221000,43.7628844,-79.33873473,Active
+A280,Old Sheppard Ave. East of Ladner Dr.,17,2022-12-02,2023-08-09,1,2195,164625,274375,,,
+A281,Van Horne Ave.  Near Silas Hill Dr.,17,2023-01-12,2023-08-09,1,1683,126225,210375,,,
+A282,Beecroft Rd.  Near Lorraine Dr.,18,2022-11-11,2025-11-13,2,18919,1418925,2364875,43.77762,-79.417966,Active
+A283,Hilda Ave.  North of Drewry Ave.,18,2022-11-16,2023-07-18,1,6987,524025,873375,,,
+A284,Gerrard St. E. East of Beaton Ave.,19,2022-12-09,2023-08-08,1,2658,199350,332250,,,
+A285,Wolverleigh Blvd. West of Glebemount Ave.,19,2022-12-09,2023-08-08,1,307,23025,38375,,,
+A286,Midland Ave. South of Aylesworth Ave.,20,2022-12-09,2025-11-13,2,8349,626175,1043625,43.712998,-79.248856,Active
+A287,Blantyre Ave. South of Swanwick Ave.,20,2022-12-07,2023-07-25,1,398,29850,49750,,,
+A288,Midland Ave. North of Tara Ave.,21,2022-12-09,2023-07-19,1,4287,321525,535875,,,
+A289,Dorcot Ave. West of Lyon Heights Rd.,21,2022-12-09,2023-07-19,1,442,33150,55250,,,
+A290,Finch Ave. E.  West of Birchmount Rd.,22,2022-12-16,2023-07-18,1,9016,676200,1127000,,,
+A291,Glendower Circuit  Near Nearwood Gate,22,2022-12-16,2023-07-18,1,217,16275,27125,43.795604,-79.301253,Planned
+A292,Brimley Rd.  North of Pitfield Rd.,23,2022-12-16,2023-07-26,1,7082,531150,885250,43.784612,-79.266738,Planned
+A293,Ingleton Blvd.  East of Presidents Court,23,2022-12-16,2023-07-26,1,254,19050,31750,,,
+A294,Morningside Ave.  North of Danzig St.,24,2022-12-12,2023-07-25,1,1204,90300,150500,,,
+A295,Dormington Dr.  North of Ellesmere Rd.,24,2022-12-21,2023-07-25,1,280,21000,35000,,,
+A296,Morrish Rd.  Near Starfire Dr.,25,2022-12-16,2023-07-26,1,1528,114600,191000,,,
+A297,Littles Rd.  South of Rangeley Dr.,25,2022-12-16,2023-07-26,1,502,37650,62750,,,
+A298,Thistle Down Blvd.  East of Albion Rd.,1,2023-02-09,2023-09-26,1,812,60900,101500,,,
+A299,Martin Grove Rd.  South of Eglinton Ave. W.,2,2023-02-09,2025-11-13,2,12890,966750,1611250,43.673257,-79.562461,Active
+A300,Lansdowne Ave.  Near 108 Lansdowne Ave.,4,2023-02-06,2023-07-12,1,551,41325,68875,,,
+A301,Pritchard Ave.  Near Batavia Ave.,5,2023-02-09,2023-12-20,1,3947,296025,493375,43.670263,-79.489281,Planned
+A302,Sheppard Ave. W.  West of Keele St.,6,2023-02-17,2023-12-20,1,5602,420150,700250,,,
+A303,Driftwood Ave.  East of Jane St.,7,2023-02-16,2023-12-20,1,1947,146025,243375,,,
+A304,Avenue Rd.  North of Elwood Blvd.,8,2023-02-09,2023-12-28,1,11313,848475,1414125,,,
+A305,Bloor St. W.  West of Clinton St.,11,2023-02-06,2024-05-21,1,1325,99375,165625,,,
+A306,Davisville Ave.  East of Yonge St.,12,2023-02-09,2024-05-22,1,3276,245700,409500,,,
+A307,Logan Ave.  Near Wolfrey Ave.,14,2023-02-17,2023-12-27,1,6314,473550,789250,,,
+A308,Harrison Rd.  Near Vernham Ave.,15,2023-02-17,2023-12-21,1,352,26400,44000,,,
+A309,Sloane Ave.  Near Draycott Dr.,16,2023-02-17,2023-12-21,1,1397,104775,174625,,,
+A310,Freshmeadow Dr.  West of Applegate Cres.,17,2023-02-17,2023-12-21,1,1000,75000,125000,,,
+A311,Senlac Rd.  North of Elynhill Dr.,18,2023-02-17,2023-12-21,1,539,40425,67375,,,
+A312,Danforth Rd.  East of Huntington Ave.,20,2023-02-21,2023-12-27,1,3668,275100,458500,,,
+A313,Lawrence Ave. E.  Near Canlish Rd.,21,2023-02-28,2023-12-27,1,13981,1048575,1747625,43.748379,-79.281273,Active
+A314,Birchmount Rd.  North of Bay Mills Blvd.,22,2023-02-21,2023-12-28,1,8829,662175,1103625,,,
+A315,Tapscott Rd.  West of Blackwell Ave.,23,2023-03-01,2023-12-28,1,4126,309450,515750,,,
+A316,Orton Park Rd.  South of Ellesmere Rd.,24,2023-02-28,2023-12-27,1,2657,199275,332125,,,
+A317,Lawrence Ave. E.  West of Port Union Rd.,25,2023-02-28,2023-12-28,1,2947,221025,368375,,,
+A318,Kipling Ave.  North of Coolhurst Dr.,1,2023-07-13,2024-05-06,1,10615,796125,1326875,,,
+A319,Mount Olive Dr.  North of Dorward Dr.,1,2023-07-13,2024-05-06,1,1469,110175,183625,,,
+A320,Kipling Ave.  Near Gracey Blvd.,2,2023-07-20,2024-05-06,1,1916,143700,239500,,,
+A321,La Rose Ave.  East of Timothy Court,2,2023-07-20,2024-05-06,1,6981,523575,872625,,,
+A322,Twenty First St.  North of Lake Shore Blvd. W.,3,2023-07-20,2024-05-27,1,2495,187125,311875,,,
+A323,Lake Shore Blvd. W.  West of Thirty Fifth St.,3,2023-07-24,2024-05-27,1,4713,353475,589125,43.59398,-79.536254,Planned
+A324,Indian Road Cres.  North of Humberside Ave.,4,2023-07-21,2025-11-13,2,3784,283800,473000,43.663059,-79.460767,Active
+A325,McCormack St.  Near Leigh St.,5,2023-07-14,2024-05-07,1,2999,224925,374875,,,
+A326,Maple Leaf Dr.  Near Bourdon Ave.,5,2023-07-14,2024-04-24,1,5959,446925,744875,,,
+A327,Sheppard Ave. W.  Near Blairville Rd.,6,2023-07-13,2024-04-29,1,2116,158700,264500,,,
+A328,Highview Ave.  North of Maurice Coulter Mews,6,2023-07-13,2024-04-29,1,2613,195975,326625,,,
+A329,Jane St.  North of Driftwood Ave.,7,2023-07-13,2024-04-29,1,10403,780225,1300375,,,
+A330,Norfinch Dr.  North of Finch Ave. W.,7,2023-07-13,2024-04-29,1,6327,474525,790875,,,
+A331,Lawrence Ave. W.  West of Varna Dr.,8,2023-07-14,2025-11-13,2,14537,1090275,1817125,43.7171919,-79.43963464,Active
+A332,Dufferin St.  North of Preston Rd.,9,2023-08-11,2024-05-07,1,1006,75450,125750,,,
+A333,Eireann Quay  South of Queens Quay,10,2023-08-22,2025-11-13,2,17717,1328775,2214625,,,
+A334,Lower Jarvis St.  South of The Esplanade,10,2023-09-25,2025-11-13,2,29721,2229075,3715125,43.64756,-79.370745,Active
+A335,Mount Pleasant Rd.  North of South Dr.,11,2023-08-11,2023-11-16,1,2750,206250,343750,,,
+A336,Avenue Rd.  North of Heath St. W.,12,2023-07-21,2023-11-09,1,968,72600,121000,,,
+A337,Mount Pleasant Rd.  Near Balliol St.,12,2023-07-21,2024-05-22,1,388,29100,48500,43.699709,-79.386676,Planned
+A338,Bond St.  North of Shuter St.,13,2023-08-25,2024-05-13,1,291,21825,36375,,,
+A339,Pembroke St.  South of Dundas St. E.,13,2023-08-11,2025-11-13,2,3436,257700,429500,43.657157,-79.371914,Active
+A340,Durant Ave.  South of Plains Rd.,14,2023-08-21,2024-05-13,1,1155,86625,144375,,,
+A341,Coxwell Ave.  North of Cosburn Ave.,14,2023-08-18,2024-05-13,1,5107,383025,638375,,,
+A342,Denlow Blvd.  Near Hamlet Gate,15,2023-07-27,2025-11-13,2,648,48600,81000,43.745359,-79.363808,Active
+A343,Ranleigh Ave.  East of Yonge St.,15,2023-07-29,2024-04-23,1,436,32700,54500,43.728266,-79.399945,Active
+A344,Brookbanks Dr.  West of Parkwoods Village Dr.,16,2023-07-27,2025-11-13,2,4691,351825,586375,43.760112,-79.324732,Active
+A345,Gateway Blvd.  Near Grenoble Dr.,16,2023-08-21,2024-05-14,1,2342,175650,292750,,,
+A346,Don Mills Rd.  South of Seneca Hill Dr.,17,2023-08-21,2024-04-22,1,12097,907275,1512125,43.788777,-79.353464,Active
+A347,Shaughnessy Blvd.  Near Rochelle Cres.,17,2023-08-21,2024-04-22,1,7772,582900,971500,,,
+A348,Hilda Ave.  Near Crossen Dr.,18,2023-07-27,2025-11-13,2,5357,401775,669625,43.7929723,-79.42718459,Active
+A350,Victoria Park Ave.  South of Kingston Rd.,19,2023-08-21,2025-11-13,2,4377,328275,547125,43.679805,-79.28355,Active
+A351,Bowmore Rd.  South of Fairmount Cres.,19,2023-08-22,2024-05-14,1,47,3525,5875,,,
+A352,St. Clair Ave. E.  West of Maybourne Ave.,20,2023-08-11,2024-04-15,1,3405,255375,425625,,,
+A353,Mason Rd.  South of Glenda Rd.,20,2023-08-14,2024-04-15,1,3061,229575,382625,,,
+A354,Ellesmere Rd.  East of Warden Ave.,21,2023-07-28,2024-04-16,1,5819,436425,727375,,,
+A355,Birkdale Rd.  Near Abbottswood Rd.,21,2023-07-28,2024-04-15,1,340,25500,42500,,,
+A356,Pharmacy Ave.  Near 3200 Pharmacy Ave.,22,2023-07-28,2024-04-16,1,2444,183300,305500,43.8008,-79.329267,Active
+A357,Sheppard Ave. E.  East of Bay Mills Blvd.,22,2023-07-28,2024-04-16,1,6523,489225,815375,,,
+A358,Finch Ave. E.  East of Brimley Rd.,23,2023-08-14,2024-04-09,1,1896,142200,237000,,,
+A359,White Heather Blvd.  Near Big Red Ave.,23,2023-08-14,2024-04-09,1,575,43125,71875,,,
+A360,Markham Rd.  South of Greencedar Circuit,24,2023-08-14,2025-11-13,2,10049,753675,1256125,43.756835,-79.22453,Active
+A361,Brimorton Dr.  West of Gaitwin Place,24,2023-08-14,2024-04-09,1,3083,231225,385375,,,
+A362,Military Trail  Near Bobmar Rd.,25,2023-08-14,2024-04-10,1,1923,144225,240375,,,
+A363,Nightstar Rd.  Near Pogonia St.,25,2023-08-14,2024-04-10,1,887,66525,110875,,,
+A364,Thistle Down Blvd. Near Judhaven Rd.,1,2024-02-01,2024-02-02,1,3,225,375,,,
+A365,Lloyd Manor Rd.  Near St. Olaves Rd.,2,2024-01-04,2024-05-06,1,1368,102600,171000,,,
+A366,Kipling Ave.  South of New Toronto St.,3,2023-12-27,2025-11-13,2,14423,1081725,1802875,43.6026296,-79.51893,Active
+A367,Kane Ave.  Near St. Olaves Rd.,5,2024-01-04,2024-05-07,1,921,69075,115125,,,
+A368,Driftwood Ave.  North of Wilmont Dr.,6,2024-01-04,2024-04-29,1,5979,448425,747375,,,
+A369,Dufferin St.  South of Dufferin Park Ave.,7,2024-01-12,2024-04-23,1,151,11325,18875,43.65624,-79.43392,Active
+A370,Dufferin St.  South of Dufferin Park Ave.,9,2023-12-21,2024-05-07,1,6862,514650,857750,43.65624,-79.43392,Active
+A371,Avenue Rd.  South of McMaster Ave.,11,2024-01-09,2024-05-22,1,20913,1568475,2614125,,,
+A372,Mortimer Ave. East of Durant Ave.,14,2024-01-09,2024-05-13,1,1125,84375,140625,,,
+A373,Blythwood Rd.  Near Blyth Dale Rd.,15,2024-01-09,2024-04-23,1,919,68925,114875,,,
+A374,Jonesville Cres.  West of Victoria Park Ave.,16,2024-01-10,2024-05-28,1,16597,1244775,2074625,,,
+A375,Shawnee Circle  Near Micmac Cres.,17,2024-01-09,2024-04-23,1,153,11475,19125,,,
+A376,Highview Ave.  Near Anneke Rd.,20,2024-01-10,2024-04-15,1,415,31125,51875,,,
+A377,McGregor Rd.  West of Balaclava Dr.,21,2024-01-16,2024-04-15,1,1572,117900,196500,,,
+A378,Chester Le Blvd.  South of Iangrove Terrace,22,2024-01-12,2024-04-16,1,106,7950,13250,,,
+A379,Chartland Blvd. S. Near Shellamwood Trail,23,2024-01-09,2024-04-09,1,196,14700,24500,,,
+A380,Livingston Rd.  Near Tonybee Trail,24,2024-01-05,2024-04-10,1,217,16275,27125,,,
+A381,Dean Park Rd.  Near Red River Cres.,25,2024-01-08,2024-04-10,1,776,58200,97000,,,
+A382,Kipling Ave. North of Rexdale Blvd.,1,2024-02-15,2025-07-03,2,11501,862575,1437625,43.713609,-79.567451,Active
+A383,Gihon Spring Dr. East of Mount Olive Dr.,1,2024-05-16,2024-11-25,1,1117,83775,139625,,,
+A384,Cabernet Circle Near 5 Cabernet Circle,1,2024-05-16,2024-11-25,1,333,24975,41625,,,
+A385,John Garland Blvd.  Near 245 John Garland Blvd.,1,2024-05-16,2024-11-25,1,4553,341475,569125,,,
+A386,Islington Ave. South of Eglinton Ave. W.,2,2024-05-16,2024-11-19,1,10216,766200,1277000,,,
+A387,Rathburn Rd. East of Kipling Ave.,2,2024-05-16,2024-11-19,1,2223,166725,277875,,,
+A388,Burnhamthorpe Rd. West of Echo Valley Rd.,2,2024-05-16,2024-12-02,1,9866,739950,1233250,43.6501149,-79.54354407,Planned
+A389,Royal York Rd. South of Oakfield Dr.,3,2024-06-04,2024-11-18,1,5357,401775,669625,,,
+A390,Keele St. South of Clearview Heights,5,2024-05-16,2024-11-19,1,1604,120300,200500,,,
+A391,Rockcliffe Blvd. Near Rockcliffe Court,5,2024-05-16,2025-03-10,1,13551,1016325,1693875,43.67496,-79.48895,Active
+A392,Bathurst St. North of Finch Ave. W.,6,2024-05-09,2024-11-25,1,4834,362550,604250,,,
+A393,Elder St. Near Kennard Ave.,6,2024-05-09,2024-11-26,1,153,11475,19125,,,
+A394,Wilmington Ave. South of Finch Ave. W.,6,2024-05-09,2024-11-26,1,2444,183300,305500,,,
+A395,Oakdale Rd.  South of Finch Ave. W.,7,2024-05-06,2024-11-26,1,2535,190125,316875,,,
+A396,Shoreham Dr. East of Shoreham Court,7,2024-05-06,2024-11-26,1,3954,296550,494250,,,
+A397,Sentinel Rd. South of Derrydown Rd.,7,2024-05-06,2024-11-20,1,2492,186900,311500,,,
+A398,Neptune Dr. West of Hotspur Rd.,8,2024-05-09,2024-11-05,1,2333,174975,291625,,,
+A399,Bathurst St. Near Hillmount Ave.,8,2024-05-09,2024-11-05,1,2331,174825,291375,,,
+A400,Lawrence Ave. W. Near Chicoutimi Ave.,8,2024-05-09,2024-11-05,1,2760,207000,345000,,,
+A401,Lansdowne Ave. South of Whytock Ave.,9,2024-05-23,2024-12-02,1,1889,141675,236125,,,
+A402,Richmond St. W. West of Bathurst St.,10,2024-05-28,2024-11-12,1,1679,125925,209875,,,
+A403,Davenport Rd. Near McAlpine St.,11,2024-05-28,2024-11-13,1,6008,450600,751000,,,
+A404,D'Arcy St. West of Beverley St.,11,2024-05-28,2024-11-13,1,2550,191250,318750,,,
+A405,Jarvis St. Near Cawthra Square,13,2024-05-29,2025-04-10,1,2536,190200,317000,,,
+A406,Danforth Ave. West of Cambridge Ave.,14,2024-05-27,2025-02-06,1,8149,611175,1018625,,,
+A407,Broadview Ave. North of Kintyre Ave.,14,2024-05-27,2024-10-29,1,1297,97275,162125,,,
+A408,Strathcona Ave. West of Blake St.,14,2024-05-27,2024-10-29,1,943,70725,117875,,,
+A409,Leslie St. North of Overland Dr.,15,2024-05-06,2025-04-17,1,29952,2246400,3744000,,,
+A410,Rolph Rd. North of Southvale Dr.,15,2024-05-06,2024-10-22,1,675,50625,84375,,,
+A411,Underhill Dr. Near Monarchwood Cres.,16,2024-05-27,2024-08-22,1,914,68550,114250,,,
+A412,York Mills Rd. East of Ness Dr.,16,2024-05-24,2024-11-04,1,3124,234300,390500,,,
+A413,Cliffwood Rd. East of Don Mills Rd.,17,2024-05-02,2024-10-21,1,305,22875,38125,,,
+A414,Hollywood Ave. East of Estelle Ave.,18,2024-05-15,2024-10-21,1,1968,147600,246000,,,
+A416,Corvette Ave. West of Brenda Cres.,20,2024-04-29,2024-07-17,1,145,10875,18125,,,
+A417,St. Clair Ave. E.  East of Warden Ave.,20,2024-04-26,2024-10-28,1,8727,654525,1090875,,,
+A418,Danforth Rd. West of Linden Ave.,20,2024-04-26,2024-10-29,1,3045,228375,380625,,,
+A419,Ellesmere Rd. West of Mondeo Dr.,21,2024-04-29,2025-03-17,1,6747,506025,843375,,,
+A420,Ionview Rd. South of Yorkshire Rd.,21,2024-04-30,2024-10-22,1,1066,79950,133250,,,
+A421,Pharmacy Ave. Near Princeway Dr.,21,2024-04-29,2024-10-22,1,2573,192975,321625,,,
+A422,Warden Ave. South of Glen Springs Dr.,22,2024-05-07,2024-11-04,1,4533,339975,566625,43.803327,-79.319553,Planned
+A423,Finch Ave. E. West of Birchmount Rd.,22,2024-04-25,2024-11-04,1,3342,250650,417750,,,
+A424,Neilson Rd. North of Finch Ave. E.,23,2024-04-18,2024-10-16,1,5849,438675,731125,,,
+A425,Washburn Way North of Berner Trail,23,2024-04-25,2024-10-16,1,3167,237525,395875,,,
+A426,McCowan Rd. South of Sandhurst Circle.,23,2024-04-18,2025-11-13,1,19781,1483575,2472625,43.803452,-79.264725,Active
+A427,Highcastle Rd. North of Pineslope Cres.,24,2024-04-19,2024-10-16,1,1375,103125,171875,,,
+A428,Guildwood Pkwy. Near Schubert Dr.,24,2024-04-19,2024-10-16,1,3226,241950,403250,,,
+A429,Canmore Blvd. West of Halfmoon Sq.,25,2024-04-19,2024-10-28,1,1143,85725,142875,,,
+A430,Meadowvale Rd. North of Lawrence Ave. E.,25,2024-04-19,2024-10-15,1,4350,326250,543750,,,
+A431,Charlottetown Blvd. North of McCulley St.,25,2024-04-19,2024-10-15,1,1843,138225,230375,,,
+A432,Corvette Ave. Near Brenda Cres.,20,2024-07-19,2024-10-29,1,132,9900,16500,,,
+A433,Underhill Dr. North of Roanoke Rd.,16,2024-08-29,2024-11-04,1,1064,79800,133000,,,
+A434,St. Andrews Blvd. West of Islington Ave.,1,2024-12-10,2025-11-13,1,4569,342675,571125,43.700973,-79.55051,Active
+A435,Islington Ave. North of Fordwich Cres.,1,2024-12-06,2025-11-13,2,7925,594375,990625,43.7285526,-79.56138591,Active
+A436,Bloor St. W. East of Forest View Rd.,2,2024-12-02,2025-11-13,1,26604,1995300,3325500,43.63331,-79.57205,Active
+A437,Dundas St. W. East of Briarly Lane,2,2024-12-02,2025-11-13,1,2701,202575,337625,43.65382,-79.52411,Active
+A438,Eglinton Ave. W. East of Martin Grove Rd.,2,2024-12-11,2025-06-26,1,1346,100950,168250,43.67494,-79.56089,Active
+A439,Thirty First St. Near Ash Cres.,3,2024-12-02,2025-11-13,1,3393,254475,424125,43.5941544,-79.52992417,Active
+A440,Sixth St. South of Lake Shore Blvd. W.,3,2024-12-02,2025-11-13,1,607,45525,75875,43.599991,-79.503811,Active
+A441,Lawrence Ave. W. Near Martini Dr.,5,2024-12-02,2025-11-13,1,2261,169575,282625,43.703317,-79.501798,Active
+A442,Scarlett Rd.  South of Edinbridge Dr.,5,2024-12-03,2025-11-13,1,3935,295125,491875,43.679233,-79.507828,Active
+A443,Keele St. North of Wandle Ave.,6,2024-12-06,2025-11-13,1,3817,286275,477125,43.7319336,-79.483285,Active
+A444,Sheppard Ave. W. Near Seeley Dr.,6,2024-12-06,2025-11-13,1,12773,957975,1596625,43.743279,-79.493949,Active
+A445,Blue Haven Cres. North of Ardwick Blvd.,7,2024-12-06,2025-11-13,1,270,20250,33750,43.746085,-79.556681,Active
+A446,Jane St. South of Courage Ave.,7,2024-12-06,2025-11-13,1,4780,358500,597500,43.744229,-79.514531,Active
+A447,Dundas St. W.  Near Casimir St.,10,2025-05-12,2025-11-13,1,76,5700,9500,43.651699,-79.403898,Active
+A448,Lippincott St. South of Vankoughnet St.,11,2024-11-25,2025-11-13,1,123,9225,15375,43.657797,-79.406999,Active
+A449,Mount Pleasant Rd. Near South Dr.,11,2024-11-21,2025-11-13,1,24650,1848750,3081250,43.676184,-79.380478,Active
+A450,Avenue Rd. Near Oaklands Ave.,12,2024-12-03,2025-07-03,2,20375,1528125,2546875,43.680343,-79.398755,Active
+A451,Russell Hill Rd. Near Coulson Ave.,12,2024-11-20,2025-11-13,1,7199,539925,899875,,,
+A453,Blake St. South of Strathcona Ave.,14,2024-11-07,2025-11-13,1,1928,144600,241000,43.675318,-79.339517,Active
+A454,Sproat Ave. West of Curzon St.,14,2024-11-07,2025-11-13,1,153,11475,19125,,,
+A455,Bayview Ave.  South of Post Rd.,15,2025-04-09,2025-11-13,1,4459,334425,557375,43.735287,-79.381842,Active
+A456,Elvaston Dr. Near Halkin Cres.,16,2024-11-20,2025-11-13,1,487,36525,60875,43.729537,-79.3137,Active
+A457,Don Mills Rd. North of Lawrence Ave. E.,16,2024-11-20,2025-11-13,1,16248,1218600,2031000,43.739149,-79.344168,Planned
+A458,Van Horne Ave. East of Bickerton Cres.,17,2024-11-05,2025-11-13,1,2373,177975,296625,43.788478,-79.332838,Active
+A459,Don Mills Rd. Near Memory Gardens Lane,17,2024-10-31,2025-11-13,1,5704,427800,713000,43.806179,-79.355686,Active
+A460,Drewry Ave.  Near Fairchild Ave. ,18,2025-03-14,2025-11-13,1,4182,313650,522750,43.78629,-79.421576,Active
+A461,Spring Garden Ave. West of Bayview Ave.,18,2024-10-31,2025-11-13,1,5625,421875,703125,43.7687755,-79.3900567,Active
+A462,Maxome Ave. South of Gustav Cres.,18,2024-10-31,2025-11-13,1,1301,97575,162625,43.788094,-79.40054931,Active
+A463,Lake Shore Blvd E. East of Winners Circle,19,2024-12-06,2025-11-13,1,5474,410550,684250,43.663866,-79.308102,Active
+A464,Glebeholme Blvd. West of Woodmount Ave.,19,2024-11-07,2025-11-13,1,483,36225,60375,43.687331,-79.317276,Active
+A465,Warden Ave. South of Cataraqui Cres.,20,2024-11-06,2025-11-13,1,3790,284250,473750,43.7019598,-79.27679059,Active
+A466,East Haven Dr. Near Leatherwood Gardens,20,2024-11-07,2025-11-13,1,102,7650,12750,43.7049614,-79.25109868,Active
+A467,Jarvis St.  Near 433 Jarvis St. ,13,2025-04-10,2025-11-13,1,4812,360900,601500,43.663845,-79.377307,Active
+A468,Brimorton Dr. Near Camlac Place,21,2024-11-05,2025-11-13,1,4979,373425,622375,,,
+A469,Pharmacy Ave. Near Galsworthy Ave.,21,2024-11-05,2025-11-13,1,2523,189225,315375,43.7473928,-79.30630268,Active
+A470,Midland Ave. South of Finch Ave. E.,22,2024-11-15,2025-11-13,1,7232,542400,904000,43.8018115,-79.28545764,Active
+A471,Pharmacy Ave. North of Huntingwood Dr.,22,2024-11-20,2025-11-13,1,1825,136875,228125,43.7836566,-79.32102805,Active
+A472,Ellesmere Rd.  Near Gladeside Rd. ,21,2025-03-19,2025-11-13,1,2571,192825,321375,43.76463,-79.286143,Active
+A473,Markham Rd. North of Verne Cres.,23,2024-10-28,2025-11-13,2,13720,1029000,1715000,43.7968054,-79.24033308,Active
+A474,Havenview Rd. Near Kentish Cres.,23,2024-10-28,2025-11-13,1,479,35925,59875,43.7898406,-79.24770405,Active
+A475,Bellamy Rd. N. Near Northleigh Dr.,24,2024-11-06,2025-11-13,1,3412,255900,426500,43.769074,-79.239924,Active
+A476,Slan Ave. Near Spraywood Gate,24,2024-10-31,2025-11-13,1,719,53925,89875,43.775388,-79.213654,Active
+A477,Galloway Rd. South of Lawrence Ave. E.,24,2024-10-29,2025-11-13,1,14900,1117500,1862500,43.7645646,-79.19579402,Active
+A478,Meadowvale Rd. South of Claresholme Dr.,25,2024-11-15,2025-11-13,1,6382,478650,797750,43.794467,-79.164358,Active
+A479,John Tabor Trail Near Duffort Court,25,2024-10-24,2025-11-13,1,348,26100,43500,43.8046118,-79.20750936,Active
+A480,Coronation Dr. East of Budworth Dr.,25,2024-10-24,2025-11-13,1,2432,182400,304000,43.7624339,-79.1813887,Active
+A481,Martin Grove Rd. South of Silverstone Dr.,1,2025-01-20,2025-11-13,1,6175,463125,771875,43.748744,-79.597523,Active
+A482,Silverstone Dr. Near Midhurst Dr.,1,2025-03-03,2025-11-13,1,917,68775,114625,43.738952,-79.596034,Active
+A483,Rexdale Blvd.  West of Highway 27,1,2025-04-15,2025-11-13,1,4905,367875,613125,43.718343,-79.599379,Active
+A484,Mill Rd.  Near 411 Mill Rd.,2,2025-01-31,2025-11-13,1,2701,202575,337625,43.6439106,-79.58734473,Active
+A485,Jane St. Near Page Ave.,4,2025-03-03,2025-11-13,1,8819,661425,1102375,43.6644435,-79.490643,Active
+A486,Bloor St. W.  East of Dundas St. W.,4,2025-04-18,2025-10-21,1,3653,273975,456625,43.656714,-79.45087,Active
+A487,Church St.  West of Uphill Ave.,5,2025-04-16,2025-11-13,1,2599,194925,324875,43.708342,-79.509436,Active
+A488,Humber Blvd. Near Louvain St.,5,2025-01-31,2025-11-13,1,6464,484800,808000,43.680773,-79.482094,Active
+A489,Jane St. North of Lambton Ave.,5,2025-01-20,2025-11-13,1,3450,258750,431250,43.6825208,-79.49820962,Active
+A490,Dufferin St. Near Stanstead Dr.,6,2025-01-20,2025-11-13,1,3358,251850,419750,43.7630859,-79.4655513,Active
+A491,Wilson Ave. Near 1235 Wilson Ave.,6,2025-01-31,2025-11-13,1,3714,278550,464250,43.7252837,-79.48853498,Active
+A492,Derrydown Rd. West of Sentinel Rd.,7,2025-02-11,2025-11-13,1,5087,381525,635875,43.7588033,-79.50224695,Active
+A493,Spenvalley Dr. Near Cobb Ave.,7,2025-02-18,2025-11-13,1,90,6750,11250,43.742876,-79.509191,Active
+A494,Wilson Ave. East of Saunders St.,8,2025-03-03,2025-11-13,1,3025,226875,378125,43.740862,-79.41676,Active
+A495,Coxwell Ave.  North of Casci Ave.,14,2025-04-15,2025-11-13,1,4263,319725,532875,43.677872,-79.321255,Active
+A496,Mortimer Ave. East of Carlaw Ave.,14,2025-02-10,2025-11-13,1,25095,1882125,3136875,43.685372,-79.349268,Active
+A497,Thorncliffe Park Dr. Near 11 Thorncliffe Park Dr.,15,2025-03-14,2025-11-13,1,1009,75675,126125,43.7042718,-79.348446,Active
+A498,Blythwood Rd. West of Strathgowan Cres.,15,2025-03-03,2025-11-13,1,18004,1350300,2250500,43.71882,-79.389955,Active
+A499,Victoria Park Ave.  North of Southmead Rd.,16,2025-04-11,2025-11-13,1,26118,1958850,3264750,43.72169,-79.301549,Active
+A500,Lynedock Cres. East of Fenside Dr.,16,2025-02-12,2025-11-13,1,38,2850,4750,43.761901,-79.327135,Active
+A501,Old Sheppard Ave. West of Brian Dr.,17,2025-03-03,2025-11-13,1,682,51150,85250,43.778301,-79.33523,Active
+A502,Don Mills Rd. South of Seneca Hill Dr.,17,2025-03-11,2025-11-13,1,4330,324750,541250,43.788777,-79.353464,Active
+A503,Finch Ave. W.  East of Duplex Ave.,18,2025-04-11,2025-11-13,1,595,44625,74375,43.779547,-79.417155,Active
+A504,Doris Ave. Near Elmwood Ave.,18,2025-02-03,2025-11-13,1,2856,214200,357000,43.7672568,-79.40975664,Active
+A505,The Donway W.  Near Southill Dr.,16,2025-07-17,2025-11-13,1,2459,184425,307375,43.732143,-79.345589,Active
+A506,Lake Shore Blvd. E. East of Winners Circle,19,2025-03-03,2025-07-02,1,2941,220575,367625,43.663866,-79.308102,Active
+A507,Danforth Rd. East of Winter Ave.,20,2025-02-19,2025-11-13,1,4043,303225,505375,43.7301303,-79.25138594,Active
+A508,McCowan Rd.  North of Hollyhedge Dr.,21,2025-04-28,2025-10-28,1,378,28350,47250,,,
+A509,Pharmacy Ave. Near Sherwood Ave.,21,2025-01-20,2025-11-13,1,3195,239625,399375,43.7403688,-79.303458,Active
+A510,Midland Ave. North of Gilder Dr.,21,2025-01-31,2025-11-13,1,4298,322350,537250,43.7375813,-79.25939164,Active
+A511,Lawrence Ave. E. Near Canlish Rd.,21,2025-02-14,2025-11-13,1,5468,410100,683500,43.748379,-79.281273,Active
+A512,Brimley Rd.  North of Lawrence Ave. E.,21,2025-04-22,2025-11-13,1,4598,344850,574750,43.755563,-79.25588,Active
+A513,Midland Ave. Near Montgomery Ave.,22,2025-01-20,2025-11-13,1,3167,237525,395875,43.7906555,-79.28075205,Active
+A514,Pharmacy Ave. Near 3200 Pharmacy Ave.,22,2025-03-18,2025-11-13,1,3716,278700,464500,43.8008,-79.329267,Active
+A515,Kennedy Rd.  South of Cardwell Ave.,22,2025-04-14,2025-11-13,1,2947,221025,368375,43.78466,-79.28917,Active
+A516,Crow Trail Near Horseley Hill Dr.,23,2025-01-20,2025-11-13,1,150,11250,18750,43.8093188,-79.232331,Active
+A517,Finch Ave. E. West of Neilson Rd.,23,2025-02-19,2025-11-13,1,5009,375675,626125,43.815802,-79.229601,Active
+A518,Finch Ave. E. West of Neilson Rd.,23,2025-02-18,2025-11-13,1,560,42000,70000,43.815802,-79.229601,Active
+A519,Nugget Ave. East of Transfer Place,23,2025-03-12,2025-11-13,1,2126,159450,265750,43.798256,-79.243377,Active
+A520,Ellesmere Rd. West of Scarborough Golf Club Rd.,24,2025-01-20,2025-11-13,1,2890,216750,361250,43.7781088,-79.22447059,Active
+A521,Morningside Ave. North of Beath St.,24,2025-02-13,2025-11-13,1,1303,97725,162875,43.7770348,-79.18980895,Active
+A522,Orton Park Rd. Near 350 Orton Park Rd.,24,2025-02-18,2025-11-13,1,930,69750,116250,43.778204,-79.213717,Active
+A523,Murison Blvd. Near United Square,25,2025-03-03,2025-11-13,1,174,13050,21750,43.79778,-79.209388,Active
+A524,East Ave. Near Maberley Cres.,25,2025-04-23,2025-11-13,1,139,10425,17375,43.785117,-79.13355,Active
