@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   title: "The Camera Post-Mortem: every Toronto traffic camera, ranked",
   description:
     "Ontario banned municipal speed cameras on November 14, 2025. The full post-mortem the City never published: 520 speed-camera sites (2020-2025) and 321 red-light intersections (2007-2026), ranked by tickets and implied fine revenue. Open data, MIT licensed.",
+  metadataBase: new URL("https://cameras.canada.nshipyard.com"),
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
